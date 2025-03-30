@@ -2,7 +2,7 @@ Overview
 CryptoVault is a secure, user-friendly web-based cryptocurrency wallet that allows users to store, manage, and transact with multiple digital currencies through any modern web browser. This non-custodial solution provides the perfect balance of security and accessibility for both crypto beginners and experienced users.
 Key Features
 Multi-Currency Support
-
+w
 Seamless management of Bitcoin, Ethereum, and hundreds of ERC-20 tokens
 Support for multiple blockchain networks including Bitcoin, Ethereum, Solana, Polygon, and Binance Smart Chain
 Real-time exchange rate conversion to major fiat currencies
