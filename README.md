@@ -41,8 +41,3 @@ Optional privacy-enhancing transaction routing
 No KYC requirements (within legal limits)
 Encrypted wallet backup solutions
 Stealth address support for applicable cryptocurrencies
-
-Technical Implementation
-CryptoVault is built on modern web technologies, utilizing WebAssembly for cryptographic operations and Progressive Web App (PWA) capabilities for offline functionality. The wallet connects directly to blockchain nodes with optional fallback to trusted API providers, ensuring reliable operation without compromising on decentralization principles.
-Accessibility
-Available on any device with a modern web browser, CryptoVault offers a responsive design that adapts to mobile, tablet, and desktop interfaces while maintaining full functionality across all platforms.
