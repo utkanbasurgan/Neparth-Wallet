@@ -37,8 +37,6 @@ Liquidity pool participation
 Yield farming dashboards
 NFT collection display and management
 
-Privacy Features
-
 Optional privacy-enhancing transaction routing
 No KYC requirements (within legal limits)
 Encrypted wallet backup solutions
