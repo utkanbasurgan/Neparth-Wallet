@@ -29,8 +29,6 @@ Batch transaction processing
 Transaction history with detailed analytics
 Built-in gas fee optimization for Ethereum-based transactions
 
-DeFi Integration
-
 Direct access to staking opportunities
 Liquidity pool participation
 Yield farming dashboards
