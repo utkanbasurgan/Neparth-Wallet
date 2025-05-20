@@ -1,5 +1,4 @@
-Overview
-CryptoVault is a secure, user-friendly web-based cryptocurrency wallet that allows users to store, manage, and transact with multiple digital currencies through any modern web browser. This non-custodial solution provides the perfect balance of security and accessibility for both crypto beginners and experienced users.
+Overview  is a secure, user-friendly web-based cryptocurrency wallet that allows users to store, manage, and transact with multiple digital currencies through any modern web browser. This non-custodial solution provides the perfect balance of security and accessibility for both crypto beginners and experienced users.
 Key Features
 Multi-Currency Support
 
