@@ -8,8 +8,6 @@ Real-time exchange rate conversion to major fiat currencies
 
 Solana, Ethereum, Bitcoin
 
-Enhanced Security Framework
-
 Client-side encryption ensures private keys never leave user devices
 Optional hardware wallet integration (Ledger, Trezor)
 Multi-signature transaction support for team or business accounts
