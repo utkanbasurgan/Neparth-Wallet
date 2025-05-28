@@ -7,7 +7,7 @@ Support for multiple blockchain networks including Bitcoin, Ethereum, Solana, Po
 Real-time exchange rate conversion to major fiat currencies
 
 Solana, Ethereum, Bitcoins
-
+s
 Client-side encryption ensures private keys never leave user devices
 Optional hardware wallet integration (Ledger, Trezor)
 Multi-signature transaction support for team or business accounts
