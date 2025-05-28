@@ -6,7 +6,7 @@ Seamless management of Bitcoin, Ethereum, and hundreds of ERC-20 tokens
 Support for multiple blockchain networks including Bitcoin, Ethereum, Solana, Polygon, and Binance Smart Chain
 Real-time exchange rate conversion to major fiat currencies
 
-Solana, Ethereum, Bitcoin
+Solana, Ethereum, Bitcoins
 
 Client-side encryption ensures private keys never leave user devices
 Optional hardware wallet integration (Ledger, Trezor)
