@@ -2,7 +2,7 @@ Overview  is a secure, user-friendly web-based cryptocurrency wallet that allows
 Key Features
 Multi-Currency Support
 
-Seamless management of Bitcoin, Ethereum, and hundreds of ERC-20 tokens
+Seamless management of Bitcoin, Ethereum, and hundreds of ERC-20 tokenss
 Support for multiple blockchain networks including Bitcoin, Ethereum, Solana, Polygon, and Binance Smart Chain
 Real-time exchange rate conversion to major fiat currencies
 
