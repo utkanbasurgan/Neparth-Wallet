@@ -5,7 +5,7 @@ Multi-Currency Support
 Seamless management of Bitcoin, Ethereum, and hundreds of ERC-20 tokensss
 Support for multiple blockchain networks including Bitcoin, Ethereum, Solana, Polygon, and Binance Smart Chain
 Real-time exchange rate conversion to major fiat currencies
-
+SS
 Solana, Ethereum, Bitcoins
 ss
 Client-side encryption ensures private keys never leave user devices
