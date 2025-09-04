@@ -20,10 +20,6 @@ Simplified transaction process with clear fee structures
 Customizable alerts for price movements and transaction confirmations
 Dark/light mode options for comfortable viewing
 
-Scheduled and recurring transactions
-Batch transaction processing
-Transaction history with detailed analytics
-Built-in gas fee optimization for Ethereum-based transactions
 
 
 Optional privacy-enhancing transaction routing
