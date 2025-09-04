@@ -12,9 +12,3 @@ Client-side encryption ensures private keys never leave user devices
 Optional hardware wallet integration (Ledger, Trezor)
 Multi-signature transaction support for team or business accounts
 Biometric authentication options (fingerprint, face recognition)
-
-
-Optional privacy-enhancing transaction routing
-No KYC requirements (within legal limits)
-Encrypted wallet backup solutions
-Stealth address support for applicable cryptocurrencies
