@@ -13,14 +13,6 @@ Optional hardware wallet integration (Ledger, Trezor)
 Multi-signature transaction support for team or business accounts
 Biometric authentication options (fingerprint, face recognition)
 
-User-Friendly Interface
-
-Intuitive dashboard displaying portfolio overview and market trends
-Simplified transaction process with clear fee structures
-Customizable alerts for price movements and transaction confirmations
-Dark/light mode options for comfortable viewing
-
-
 
 Optional privacy-enhancing transaction routing
 No KYC requirements (within legal limits)
