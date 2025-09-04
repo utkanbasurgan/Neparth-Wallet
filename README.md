@@ -20,8 +20,6 @@ Simplified transaction process with clear fee structures
 Customizable alerts for price movements and transaction confirmations
 Dark/light mode options for comfortable viewing
 
-Advanced Transaction Management
-
 Scheduled and recurring transactions
 Batch transaction processing
 Transaction history with detailed analytics
