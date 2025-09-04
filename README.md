@@ -27,10 +27,6 @@ Batch transaction processing
 Transaction history with detailed analytics
 Built-in gas fee optimization for Ethereum-based transactions
 
-Direct access to staking opportunities
-Liquidity pool participation
-Yield farming dashboards
-NFT collection display and management
 
 Optional privacy-enhancing transaction routing
 No KYC requirements (within legal limits)
