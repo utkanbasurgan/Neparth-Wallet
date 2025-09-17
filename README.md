@@ -15,3 +15,4 @@ Biometric authentication options (fingerprint, face recognition)
 ss
 ss
 ss
+ss
