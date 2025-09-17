@@ -13,3 +13,4 @@ Optional hardware wallet integration (Ledger, Trezor)
 Multi-signature transaction support for team or business accounts
 Biometric authentication options (fingerprint, face recognition)
 ss
+ss
